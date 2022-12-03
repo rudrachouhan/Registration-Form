@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: #1b1b32;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+/* input,textarea{
+    background-color: #0a0a23;
+    
+    color:white;
+    width: 100%;
+    min-height: 2em;
+    border-color: #0a0a23;
+    margin:15px 0px;
+} */
+select{
+    margin:15px 0px;
+    display: block;
+}
+
+fieldset{
+    border:0px;
+    }
+form{
+    max-width: 500px;
+    margin:auto;
+}
+.pdetails input,textarea{
+    background-color: #0a0a23;
+    
+    color:white;
+    width: 100%;
+    min-height: 2em;
+    border-color: #0a0a23;
+    margin:15px 0px;
+}
+.more input,textarea{
+    background-color: #0a0a23;
+    display:block;
+    color:white;
+    width: 100%;
+    min-height: 2em;
+    border-color: #0a0a23;
+    margin:15px 0px;
+}
+.account label{
+    
+    display:block;
+    color:white;
+    margin:15px 15px 5px 0px;
+    border-color: #0a0a23;
+    
+}
+input[type="submit"]{
+        display: block;
+        margin: 1em auto;
+        width:400px;
+        height:2em;
+        border-color: #0a0a23;
+}
